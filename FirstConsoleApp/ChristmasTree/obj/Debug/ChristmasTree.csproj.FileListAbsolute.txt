@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\obj\Debug\ChristmasTree.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\user\source\repos\FirstConsoleApp\ChristmasTree\obj\Debug\ChristmasTree.pdb
