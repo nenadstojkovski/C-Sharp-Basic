@@ -1,0 +1,7 @@
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\bin\Debug\BiggerNumber.exe.config
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\bin\Debug\BiggerNumber.exe
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\bin\Debug\BiggerNumber.pdb
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\obj\Debug\BiggerNumber.csprojAssemblyReference.cache
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\obj\Debug\BiggerNumber.csproj.CoreCompileInputs.cache
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\obj\Debug\BiggerNumber.exe
+D:\Seavus Code Academy documents\C#\MyGitHubApp\C-Sharp-Basic\Homework2-BiggerNumber\BiggerNumber\obj\Debug\BiggerNumber.pdb
